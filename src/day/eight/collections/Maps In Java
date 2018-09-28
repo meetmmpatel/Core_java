@@ -1,0 +1,5 @@
+
+1. HashSet doesn’t maintain any kind of order of its elements.
+2. TreeSet sorts the elements in ascending order.
+3. LinkedHashSet maintains the insertion order. 
+	Elements gets sorted in the same sequence in which they have been added to the Set.
